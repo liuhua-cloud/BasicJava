@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6de5339a-06b7-4f20-afc3-2ba2a85d612b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gd41fEMmDBdYtHO6s3G6wl7wsy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lh.lhj.InsertSort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lh.lhj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lh.lhj.Test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lh.lhj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InsertSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6de5339a-06b7-4f20-afc3-2ba2a85d612b" name="Default Changelist" comment="" />
+      <created>1598430921284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598430921284</updated>
+      <workItem from="1598430927166" duration="3410000" />
+      <workItem from="1598628836506" duration="2650000" />
+      <workItem from="1598884106175" duration="4949000" />
+      <workItem from="1598930916417" duration="18718000" />
+      <workItem from="1599470993534" duration="8632000" />
+      <workItem from="1599492323750" duration="3877000" />
+      <workItem from="1599543400500" duration="16327000" />
+      <workItem from="1599820160378" duration="10539000" />
+      <workItem from="1599994041595" duration="26635000" />
+      <workItem from="1600315375622" duration="17267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1599551812259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599551812259" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600359194736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600359194736" />
+    <state x="153" y="109" key="SettingsEditor" timestamp="1600065164582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600065164582" />
+    <state width="511" height="446" key="SwitcherDM" timestamp="1600339935734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="511" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1600339935734" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600324644878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600324644878" />
+    <state x="215" y="81" key="new project wizard" timestamp="1599489398771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="215" y="81" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1599489398771" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600340010274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600340010274" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="s.value[1]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
